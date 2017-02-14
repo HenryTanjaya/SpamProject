@@ -54,7 +54,7 @@ public class project extends javax.swing.JFrame{
             }
         });
 
-        lblIcon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/OJvDLjN.png"))); // NOI18N
+        lblIcon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons/OJvDLjN.png"))); // NOI18N
         lblIcon.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 lblIconMouseClicked(evt);
